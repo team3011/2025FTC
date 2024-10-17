@@ -13,21 +13,21 @@ PREREQUISITES
 
 SPECIAL NOTE ABOUT MOTORS AND SERVOS
 ------------------------------------------------------------
-1) The Rev Control Hub - https://www.revrobotics.com/rev-31-1595/
-  a) up to 4 DC motors such as https://www.revrobotics.com/rev-41-1600/
+1) The Rev Control Hub - https://www.revrobotics.com/rev-31-1595/   
+  a) up to 4 DC motors such as https://www.revrobotics.com/rev-41-1600/  
   b) up to 6 Servos such as https://www.revrobotics.com/rev-41-1097/
 	
-3) If your robot requires more than 4 DC motors, you can use
+3) If your robot requires more than 4 DC motors, you can use  
    a) REV expansion hub - https://www.revrobotics.com/rev-31-1153/
-      which gives you an additional 4 DC motors and 6 servo ports
-   OR
+      which gives you an additional 4 DC motors and 6 servo ports  
+   OR  
    b) Use a servo port to control a Sparkmini https://www.revrobotics.com/rev-31-1230/
       Any use of a Sparkmini will require the availibity of a XT30 power port. To add more
-      power ports, you can use https://www.revrobotics.com/rev-31-1293/
-   OR
+      power ports, you can use https://www.revrobotics.com/rev-31-1293/    
+   OR  
    c) there is a new part that can remove the need for the expansion hub
       our team will test it this year. https://www.revrobotics.com/rev-11-1855/ 
-      this gives an additional 6 servo ports. See option b.	
+      this gives an additional 6 servo ports. See option b.  	
 ------------------------------------------------------------	  
 
 SPECIAL NOTE ABOUT THE DRIVE CHASSIS AND ODOMETRY
@@ -40,3 +40,7 @@ GETTING STARTED
 ------------------------------------------------------------
 1) Update your control hub - https://docs.revrobotics.com/rev-hardware-client/duo/control-hub
 2) Update your driver hub - https://docs.revrobotics.com/rev-hardware-client/duo/driver-hub
+3) Plug in you USB WIFI stick and connect to the virtual machine.
+4) Connect the virtual machine to your robot using WIFI
+5) Choose how you are going to program the robot https://ftc-docs.firstinspires.org/en/latest/programming_resources/shared/choosing_program_lang/choosing-program-lang.html
+6) To get the most out of the robot, you will need to use Android Studio.
