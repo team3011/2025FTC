@@ -1,6 +1,6 @@
 # ABOUT THE PROJECT
 ------------------------------------------------------------
-The purpose of this image is to give you a jump start to programming your robot with Android Studio. 
+The purpose of this image is to give you a jump start to programming your robot ideally with Android Studio. 
 ------------------------------------------------------------
 
 PREREQUISITES
