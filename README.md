@@ -14,10 +14,10 @@ PREREQUISITES
 SPECIAL NOTE ABOUT MOTORS AND SERVOS
 ------------------------------------------------------------
 1) The Rev Control Hub - https://www.revrobotics.com/rev-31-1595/
-	a) up to 4 DC motors such as https://www.revrobotics.com/rev-41-1600/
-	b) up to 6 Servos such as https://www.revrobotics.com/rev-41-1097/
+  a) up to 4 DC motors such as https://www.revrobotics.com/rev-41-1600/
+  b) up to 6 Servos such as https://www.revrobotics.com/rev-41-1097/
 	
-2) If your robot requires more than 4 DC motors, you can use
+3) If your robot requires more than 4 DC motors, you can use
    a) REV expansion hub - https://www.revrobotics.com/rev-31-1153/
       which gives you an additional 4 DC motors and 6 servo ports
    OR
