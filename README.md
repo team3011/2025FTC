@@ -30,15 +30,10 @@ SPECIAL NOTE ABOUT MOTORS AND SERVOS
       this gives an additional 6 servo ports. See option b.	
 ------------------------------------------------------------	  
 
-SPECIAL NOTE ABOUT THE DRIVE CHASSIS
+SPECIAL NOTE ABOUT THE DRIVE CHASSIS AND ODOMETRY
 ------------------------------------------------------------
-1) The start kits come with a tank drive system https://xiaoxiae.github.io/Robotics-Simplified-Website/drivetrain-control/tank-drive/ which DOES NOT WORK WELL in FTC. Instead, I recommend you use a mecanum drive. I Strongly recommend https://www.gobilda.com/strafer-chassis-kit-104mm-gripforce-mecanum-wheels/ 
-
-
-	  
-	  
-
-      
+1) The start kits come with a tank drive system https://xiaoxiae.github.io/Robotics-Simplified-Website/drivetrain-control/tank-drive/ which DOES NOT WORK WELL in FTC. Instead, I recommend you use a mecanum drive. I Strongly recommend https://www.gobilda.com/strafer-chassis-kit-104mm-gripforce-mecanum-wheels/
+2) To run autonomous, you need to use odometry to track the robots location on the field. I strongly recommend the following https://www.gobilda.com/odometry. This requires 2 odometry pods and 1 computer.
 ------------------------------------------------------------
 
 GETTING STARTED
