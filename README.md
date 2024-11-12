@@ -43,3 +43,10 @@ GETTING STARTED
 4) Connect the virtual machine to your robot using WIFI
 5) Choose how you are going to program the robot https://ftc-docs.firstinspires.org/en/latest/programming_resources/shared/choosing_program_lang/choosing-program-lang.html
 6) To get the most out of the robot, you will need to use Android Studio.
+------------------------------------------------------------
+
+GETTING STARTED with Android Studio
+------------------------------------------------------------
+*some of these steps may already be done in the released image for the 2024-25 FTC season
+1) complete the following: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/installing_android_studio/Installing-Android-Studio.html
+2) 
