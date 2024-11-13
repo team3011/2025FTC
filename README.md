@@ -68,6 +68,7 @@ GETTING STARTED with Android Studio
 	d) plug the usb cable into the computer<br>
 	e) The top bar of Andriod Studio should now show the control hub connected to the left of TeamCode. If it is not there, check to make sure the control hub is connected to the VM. On the VM bar click Devices -> USB, make sure there is a check mark next to the control hub. If the check mark is not there, click on the device.<br>
 	f) To push code, click on the green triangle next to Teamcode.<br>
+ 	g) if the push is working, the green light on the control hub will flash blue. Wait until it is solid green to move on.<br>
 6) Pushing code with Wi-Fi<br>
 	a) Insert the Wi-Fi stick and make sure it is connected to the VM<br>
 	b) Open the Wi-Fi connects and find your robot, is should look like FTC_####. Connect to it. Once connected it will say connected but with no internet.<br>
@@ -76,7 +77,18 @@ GETTING STARTED with Android Studio
   	e) Click on the ADB Wi-Fi icon (looks like a wireless signal right side of screen) click connect.<br>
    	f) Disconnect the USB cable between the control hub and the computer<br>
     	g) To push code, click on the green triangle next to Teamcode.<br>
+     	h) if the push is working, the green light on the control hub will flash blue. Wait until it is solid green to move on.<br>
 7) Running code on the robot using the Dashboard<br>
-	a) Open up Chrome and go to [http:// ](http://192.168.43.1:8080/dash)<br>
-	b) In the dropdown menu in the Op Mode box, click Subsystem_Test 
-
+	a) Setup the configuration file in the Driverstation following the following: https://ftc-docs.firstinspires.org/en/latest/hardware_and_software_configuration/configuring/configuring_dc_motor/configuring-dc-motor.html#configuring-a-dc-motor
+	b) For this test, I am setting the port 0 motor to the motor type it is connected to and naming it "backLeft"
+	c) Open up Chrome and go to http://192.168.43.1:8080/dash<br>
+	d) In the dropdown menu in the Op Mode box, click Subsystem_Test<br>
+	e) click init<br>
+	f) notice the telemetry data in the bottom right panel has added text. This is VERY powerful to get data from the robot without looking at the DriverStation.<br>
+	g) click start<br> 
+8) Changing variables on the fly<br>
+	a) Open up Chrome and go to http://192.168.43.1:8080/dash<br>
+ 	b) in the configuration panel in the top right, expand Subsystem_Test<br>
+  	c) change the power level in the configuration panel to another positive number (DO NOT SWITCH FROM POSITIVE TO NEGATIVE WHILE MOTOR IS MOVING WITHOUT GOING TO 0 (and vice versa)!!!!!!! You you destroy your motor). You must press enter to activate the new value.<br>
+   	d) click init then start<br>
+    	e) change the power. The motor should be changing speed.<br> 
