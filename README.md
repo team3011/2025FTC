@@ -48,5 +48,19 @@ GETTING STARTED
 GETTING STARTED with Android Studio
 ------------------------------------------------------------
 *some of these steps may already be done in the released image for the 2024-25 FTC season
-1) complete the following: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/installing_android_studio/Installing-Android-Studio.html
-2) 
+1) complete only this page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/installing_android_studio/Installing-Android-Studio.html
+2) Importing the base project from GitHub<br>
+	a) If this is your first time opening a project click on VCS otherwise click File -> New -> Project from Version Control<br>
+	b) Install Git if you have not already<br>
+ 	c) Past the URL to the DoDEA FTC 2024-25 base code: https://github.com/team3011/2025FTC_BaseCode<br>
+  	d) Click clone (this will take a while to pull everything in, be patient)<br>
+   	e) If prompted, do NOT update the Android Gradle plugin!!!!!!!!!!!<br>
+   	f) The base project includes FTCLib and RoadRunner<br>
+3) Pushing test code to the robot with a USB cable
+	a) Open the Subsystem_Test.java program and read the comments
+	b) Turn on the robot
+	c) plug the usb cable into the control hub
+	d) plug the usb cable into the computer
+	e) The top bar of Andriod Studio should now show the control hub connected to the left of TeamCode. If it is not there, check to make sure the control hub is connected to the VM. On the VM bar click Devices -> USB, make sure there is a check mark next to the control hub. If the check mark is not there, click on the device.
+	f) To push code, click on the green triangle next to Teamcode.
+5) 
