@@ -48,19 +48,24 @@ GETTING STARTED
 GETTING STARTED with Android Studio
 ------------------------------------------------------------
 *some of these steps may already be done in the released image for the 2024-25 FTC season
-1) complete only this page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/installing_android_studio/Installing-Android-Studio.html
-2) Importing the base project from GitHub<br>
-	a) If this is your first time opening a project click on VCS otherwise click File -> New -> Project from Version Control<br>
+1) read and complete only this page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/installing_android_studio/Installing-Android-Studio.html
+2) Github integration
+   	a) only read the following page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/fork_and_clone_github_repository/Fork-and-Clone-From-GitHub.html
+   	b) log into Github
+   	c) Paste the URL to the DoDEA FTC 2024-25 base code: [https://github.com/team3011/2025FTC_BaseCode](https://github.com/team3011/2025_BaseCode)<br>
+    	d) Click on Fork. This will take you to the “Create a new fork” page, and will auto-fill the “Owner” and “Repository name” fields. I would rename the repository to your team number following by an 'a'. Just enter a description (optional), leave the “Copy the master branch only” option checked, and click the green “Create fork” button.
+4) Importing the base project from GitHub<br>
+	a) If this is your first time opening a project click on Get from VCS otherwise click File -> New -> Project from Version Control<br>
 	b) Install Git if you have not already<br>
- 	c) Past the URL to the DoDEA FTC 2024-25 base code: https://github.com/team3011/2025FTC_BaseCode<br>
+ 	c) Paste the URL your forked project<br>
   	d) Click clone (this will take a while to pull everything in, be patient)<br>
    	e) If prompted, do NOT update the Android Gradle plugin!!!!!!!!!!!<br>
    	f) The base project includes FTCLib and RoadRunner<br>
-3) Pushing test code to the robot with a USB cable<br>
+5) Pushing test code to the robot with a USB cable<br>
 	a) Open the Subsystem_Test.java program and read the comments<br>
 	b) Turn on the robot<br>
 	c) plug the usb cable into the control hub<br>
 	d) plug the usb cable into the computer<br>
 	e) The top bar of Andriod Studio should now show the control hub connected to the left of TeamCode. If it is not there, check to make sure the control hub is connected to the VM. On the VM bar click Devices -> USB, make sure there is a check mark next to the control hub. If the check mark is not there, click on the device.<br>
 	f) To push code, click on the green triangle next to Teamcode.<br>
-5) 
+6) 
