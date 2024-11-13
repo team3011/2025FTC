@@ -56,11 +56,11 @@ GETTING STARTED with Android Studio
   	d) Click clone (this will take a while to pull everything in, be patient)<br>
    	e) If prompted, do NOT update the Android Gradle plugin!!!!!!!!!!!<br>
    	f) The base project includes FTCLib and RoadRunner<br>
-3) Pushing test code to the robot with a USB cable
-	a) Open the Subsystem_Test.java program and read the comments
-	b) Turn on the robot
-	c) plug the usb cable into the control hub
-	d) plug the usb cable into the computer
-	e) The top bar of Andriod Studio should now show the control hub connected to the left of TeamCode. If it is not there, check to make sure the control hub is connected to the VM. On the VM bar click Devices -> USB, make sure there is a check mark next to the control hub. If the check mark is not there, click on the device.
-	f) To push code, click on the green triangle next to Teamcode.
+3) Pushing test code to the robot with a USB cable<br>
+	a) Open the Subsystem_Test.java program and read the comments<br>
+	b) Turn on the robot<br>
+	c) plug the usb cable into the control hub<br>
+	d) plug the usb cable into the computer<br>
+	e) The top bar of Andriod Studio should now show the control hub connected to the left of TeamCode. If it is not there, check to make sure the control hub is connected to the VM. On the VM bar click Devices -> USB, make sure there is a check mark next to the control hub. If the check mark is not there, click on the device.<br>
+	f) To push code, click on the green triangle next to Teamcode.<br>
 5) 
