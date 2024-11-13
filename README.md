@@ -75,4 +75,8 @@ GETTING STARTED with Android Studio
  	d) Connect the control hub to the VM with the USB cable<br>
   	e) Click on the ADB Wi-Fi icon (looks like a wireless signal right side of screen) click connect.<br>
    	f) Disconnect the USB cable between the control hub and the computer<br>
+    	g) To push code, click on the green triangle next to Teamcode.<br>
+7) Running code on the robot using the Dashboard<br>
+	a) Open up Chrome and go to [http:// ](http://192.168.43.1:8080/dash)<br>
+	b) In the dropdown menu in the Op Mode box, click Subsystem_Test 
 
