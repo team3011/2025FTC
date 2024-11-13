@@ -68,4 +68,11 @@ GETTING STARTED with Android Studio
 	d) plug the usb cable into the computer<br>
 	e) The top bar of Andriod Studio should now show the control hub connected to the left of TeamCode. If it is not there, check to make sure the control hub is connected to the VM. On the VM bar click Devices -> USB, make sure there is a check mark next to the control hub. If the check mark is not there, click on the device.<br>
 	f) To push code, click on the green triangle next to Teamcode.<br>
-6) 
+6) Pushing code with Wi-Fi<br>
+	a) Insert the Wi-Fi stick and make sure it is connected to the VM<br>
+	b) Open the Wi-Fi connects and find your robot, is should look like FTC_####. Connect to it. Once connected it will say connected but with no internet.<br>
+	c) Open your project in Android Studio, click File -> Settings -> Plugins. Search for ADB Wi-Fi and install.<br>
+ 	d) Connect the control hub to the VM with the USB cable<br>
+  	e) Click on the ADB Wi-Fi icon (looks like a wireless signal right side of screen) click connect.<br>
+   	f) Disconnect the USB cable between the control hub and the computer<br>
+
