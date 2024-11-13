@@ -49,7 +49,7 @@ GETTING STARTED with Android Studio
 ------------------------------------------------------------
 *some of these steps may already be done in the released image for the 2024-25 FTC season
 1) read and complete only this page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/installing_android_studio/Installing-Android-Studio.html
-2) Github integration
+2) Github integration<br>
    	a) only read the following page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/fork_and_clone_github_repository/Fork-and-Clone-From-GitHub.html<br>
    	b) log into Github<br>
    	c) Paste the URL to the DoDEA FTC 2024-25 base code: [https://github.com/team3011/2025FTC_BaseCode](https://github.com/team3011/2025_BaseCode)<br>
