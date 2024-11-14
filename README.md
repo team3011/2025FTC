@@ -89,7 +89,7 @@ GETTING STARTED with Android Studio
 8) Changing variables on the fly<br>
 	a) Open up Chrome and go to http://192.168.43.1:8080/dash<br>
  	b) in the configuration panel in the top right, expand Subsystem_Test<br>
-  	c) change the power level in the configuration panel to another positive number (DO NOT SWITCH FROM POSITIVE TO NEGATIVE WHILE MOTOR IS MOVING WITHOUT GOING TO 0 (and vice versa)!!!!!!! You you destroy your motor). You must press enter to activate the new value.<br>
+  	c) change the power level in the configuration panel to another positive number (DO NOT SWITCH FROM POSITIVE TO NEGATIVE WHILE MOTOR IS MOVING WITHOUT GOING TO 0 (and vice versa)!!!!!!! You will destroy your motor). You must press enter to activate the new value.<br>
    	d) click init then start<br>
     	e) change the power. The motor should be changing speed.<br>
 9) Uploading your code to Github<br>
