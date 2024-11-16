@@ -52,7 +52,7 @@ GETTING STARTED with Android Studio
 2) Github integration<br>
    	a) only read the following page: https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/fork_and_clone_github_repository/Fork-and-Clone-From-GitHub.html<br>
    	b) log into Github<br>
-   	c) Paste the URL to the DoDEA FTC 2024-25 base code: [[https://github.com/team3011/2025FTC_BaseCode](https://github.com/team3011/2025_BaseCode)](https://github.com/team3011/2025_BaseCode)<br>
+   	c) Paste the URL to the DoDEA FTC 2024-25 base code: https://github.com/team3011/2025_BaseCode<br>
     	d) Click on Fork. This will take you to the “Create a new fork” page, and will auto-fill the “Owner” and “Repository name” fields. I would rename the repository to FTC2025. Just enter a description (optional), leave the “Copy the master branch only” option checked, and click the green “Create fork” button.
 4) Importing the base project from GitHub<br>
 	a) If this is your first time opening a project click on Get from VCS otherwise click File -> New -> Project from Version Control<br>
