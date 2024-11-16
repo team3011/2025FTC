@@ -43,6 +43,7 @@ GETTING STARTED
 4) Connect the virtual machine to your robot using WIFI
 5) Choose how you are going to program the robot https://ftc-docs.firstinspires.org/en/latest/programming_resources/shared/choosing_program_lang/choosing-program-lang.html
 6) To get the most out of the robot, you will need to use Android Studio.
+7) Configure the builtin IMU: https://ftc-docs.firstinspires.org/en/latest/programming_resources/imu/imu.html#configure-imu
 ------------------------------------------------------------
 
 GETTING STARTED with Android Studio
