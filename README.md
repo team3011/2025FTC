@@ -97,3 +97,9 @@ GETTING STARTED with Android Studio
 	a) click File -> Git -> Commit<br>
 	b) make sure all the files you modified are checked, click Commit and Push<br>
 	c) at some point you will need to log Github and create a handshake between Android Studio and Github.<br>
+
+------------------------------------------------------------
+
+HELP ME!!!!!!
+------------------------------------------------------------
+1) If you have battery issues, read this - https://docs.revrobotics.com/duo-control/troubleshooting-the-control-system/driver-hub-troubleshooting/driver-hub-battery-troubleshooting#battery-calibration
